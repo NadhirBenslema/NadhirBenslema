@@ -71,4 +71,6 @@ I am a student, Currently I am pursuing my Engineering cycle at Esprit where I h
 ![Nadhir's stats](https://github-readme-stats.vercel.app/api?username=NadhirBenslema&show_icons=true)
 
 
+# 📊 GitHub Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadhirBenslema&layout=pie)](https://github.com/NadhirBenslema/github-readme-stats)
 
